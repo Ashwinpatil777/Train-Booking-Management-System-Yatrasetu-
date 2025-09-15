@@ -30,8 +30,6 @@ A full-stack **Train Booking Management System** that allows users to search tra
 
 ## 🛠 User Workflow
 
-```mermaid
-graph TD
 A[Search Train] --> B[Select Train]
 B --> C[Select Coach & Seats]
 C --> D[Enter Customer Details]
@@ -167,12 +165,6 @@ Open a pull request
 
 📄 License
 This project is licensed under the MIT License. See LICENSE for details.
-
-📷 Screenshots (Optional)
-Add images/screenshots here to show the UI for search, seat selection, payment, and ticket PDF.
-
-yaml
-Copy code
 
 ---
 

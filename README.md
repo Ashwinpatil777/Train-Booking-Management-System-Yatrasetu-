@@ -171,3 +171,7 @@ This project is licensed under the MIT License. See LICENSE for details.
 I can also make a **version with a GitHub banner image, colorful badges, and screenshot placeholders** ready for copy-paste so your repo looks professional.  
 
 Do you want me to make that version too?
+
+## 🎥 Demo Video
+
+[![Watch the video] (https://drive.google.com/drive/folders/1-qP8QYvMT9qdlF8XKSnvs8Us6R16Ltn2?usp=sharing)
